@@ -1,1 +1,1 @@
-_G.kill = true
+getgenv().kill = true
