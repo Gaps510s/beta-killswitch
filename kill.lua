@@ -1,1 +1,1 @@
-a = false
+return false
