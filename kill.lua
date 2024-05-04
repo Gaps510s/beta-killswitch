@@ -1,1 +1,1 @@
-return false
+_G.kill = true
