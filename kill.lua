@@ -1,1 +1,1 @@
-getgenv().kill = true
+return true
