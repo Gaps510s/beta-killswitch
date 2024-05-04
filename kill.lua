@@ -1,1 +1,1 @@
-return true
+a = true
